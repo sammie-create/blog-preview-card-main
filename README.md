@@ -29,13 +29,13 @@ Users should be able to:
 ### Screenshot
 
 - Mobile design: ![](./assets/images/blog%20preview%20mobile%20design%20screenshot.png)
-- Desktop design![](./assets/images/Blog%20preview%20desktop%20design.png)
-- Active state ![](./assets/images/blog%20preview%20active%20state%20design.png)
+- Desktop design: ![](./assets/images/Blog%20preview%20desktop%20design.png)
+- Active state: ![](./assets/images/blog%20preview%20active%20state%20design.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/sammie-create/blog-preview-card-main)
+- Live Site URL: (https://sammie-create.github.io/blog-preview-card-main/)
 
 ## My process
 
@@ -63,7 +63,7 @@ I will continue focus on been very comfortable with CSS and master its paradigm.
 
 ### Useful resources
 
-- [Example resource 1](https://www.w3schools.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+- [Example resource 1](https://www.w3schools.com) - This helped me for flex property. I will always use w3 schools, it's always helpful
 
 ## Author
 
